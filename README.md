@@ -6,7 +6,7 @@
 
 Install into vagrant's isolated RubyGems instance using:
 
-    $ vagrant gem install vagrant-hostmaster
+    $ vagrant plugin install vagrant-hostmaster
 
 ## Usage
 
